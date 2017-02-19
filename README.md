@@ -21,3 +21,7 @@ Signed,
 **If you are a Xcode developer you can sign the [letter here](https://goo.gl/forms/mUCTfVSCWJ1PGo7z1)**
 
 > This open letter idea is inspired in [GitHub's one](https://github.com/dear-github/dear-github).
+
+---
+
+> Note: You can also approach Apple, and report bugs and requests as radars on [https://bugreport.apple.com/](https://bugreport.apple.com/)
